@@ -1,0 +1,76 @@
+.body{
+    display: flex;
+}
+.details{
+   
+    margin-top: 200px;
+    margin-left: 50px;
+    padding: 30px 80px;   
+}
+.oceanus{
+    color: #47C2C7;
+    height: 30px;
+width: 272px;
+left: 1189px;
+top: 419px;
+border-radius: ;
+}
+.box{
+    width: 100%;
+    padding: 12px 20px 12px 0;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 1px solid #00c0f3;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 100;
+    font-size: 12px;
+    line-height: 21px;
+}
+.box1{
+    width: 100%;
+    padding: 12px 20px 12px 0;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 1px solid #00c0f3;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 100;
+    font-size: 12px;
+    line-height: 21px;
+}
+.rem{
+    height: 13px;
+width: 99px;
+left: 1214px;
+top: 678px;
+border-radius: nullpx;
+}
+.forg{
+    height: 13px;
+width: 113px;
+left: 1484px;
+top: 678px;
+border-radius: nullpx;
+padding: 50px;
+}
+.log{
+   
+width: 73px;
+border-radius: 0px;
+font-size: 18px;
+line-height: 1px;
+text-align: center;
+height: 39px;
+left: 1187px;
+top: 772px;
+background: #00c0f3;
+
+}
+
+
+
+
+   
